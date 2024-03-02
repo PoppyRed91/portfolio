@@ -1,49 +1,50 @@
-{
-    "drawing-guessing" : {
+[
+
+    {
         "id" : 0,
         "name" : "Drawing Guessing Game",
-        "image" : "./Assets/project_drawing-guessing.png",
+        "image" : "project_drawing-guessing.png",
         "link" : "https://poppyred91.github.io/drawing-guessing/",
         "description" : "Game made with vanilla Javascript, HTML and CSS. This is a two players game where one player receives an animal from API and has limited time to draw it on canvas. When time is up, second player needs to guess and type in which animal he think that is. Both drawing, guessed and correct answer is stored in local storage and is visible on homepage when game is run. "
     },
 
-    "the-reactors" : {
+    {
         "id" : 1,
         "name" : "The Reactors",
-        "image" : "./Assets/project_the-reactors.png",
+        "image" : "project_the-reactors.png",
         "link" : "https://thereactorsjob.netlify.app/",
         "description" : "I made this page together with my team of colleagues at Hyper Island. It's a mockup recruiting company page which offers tech-jobs on cold and warm locations all over the world. Project is made with React using Javascript and CSS. I was responsible for creating a json.file, 'Apply page' of the website and accessing the json file and using it throughout the website. "
     },
 
-    "star-trek-website" : {
+    {
         "id" : 2,
         "name" : "Star Trek inspired website",
-        "image" : "./Assets/project_star-trek.png",
+        "image" : "project_star-trek.png",
         "link" : "https://poppyred91.github.io/star-trek-website/",
         "description" : "This was my first project done at Hyper Island as a part of Fundamentals module. The task was to create a simple website inspired by anything from 90's using only HTML and CSS. Website is responsive and functional."
     },
 
-    "dungeon-escape" : {
+    {
         "id" : 3,
         "name" : "Dungeon Escape Game",
-        "image" : "./Assets/project_dungeon-escape.png",
+        "image" : "project_dungeon-escape.png",
         "link" : "https://poppyred91.github.io/dungeon-game/",
         "description" : "I made this game as a part of my Hyper Island module - Introduction to Javascript. This is a story-telling game made with HTML, CSS and vanilla Javascript."
     },
 
-    "quiz" : {
+    {
         "id" : 4,
         "name" : "Quiz",
-        "image" : "./Assets/project_quiz.png",
+        "image" : "project_quiz.png",
         "link" : "https://poppyred91.github.io/Quiz/",
         "description" : "A quiz made with HTML, CSS and vanilla Javascript. Take the quiz to find out which job is best suited for you! The results contain memes."
     },
 
-    "moving-company" : {
+    {
         "id" : 5,
         "name" : "Moving Company Website",
-        "image" : "./Assets/project_moving-company.png",
+        "image" : "project_moving-company.png",
         "link" : "https://poppyred91.github.io/BS_moving-company-website/",
         "description" : "Moving company mockup website made with Bootstrap only."
     }
-}
+]
