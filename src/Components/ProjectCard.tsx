@@ -14,8 +14,11 @@ export default function ProjectCard(props: Props) {
     return(
 
         <>
-            <img src={require(`../Assets/`+ props.projectDetailed.image)} className="projects_image" alt="image"></img>
-            <Link to={"/project/"+ props.projectDetailed.id} className="projects_project-name">{props.projectDetailed.name}</Link>
+            <section className="project-card_wrapper">
+                <img src={require(`../Assets/`+ props.projectDetailed.image)} className="projects_image" alt="image"></img>
+                <Link to={"/project/"+ props.projectDetailed.id} className="projects_project-name">{props.projectDetailed.name}</Link>
+            </section>
+            
         </>
     )
 }

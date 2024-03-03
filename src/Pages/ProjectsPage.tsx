@@ -20,6 +20,7 @@ export default function ProjectsPage(prop: Prop) {
 
     return(
         <>
+            <h1 className="projects_title">Projects</h1>
             <section className="projects_wrapper">
                 {prop.projectsDetailed.map(i => {
                     return(<ProjectCard projectDetailed={i} key={i.id}></ProjectCard>)

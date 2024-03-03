@@ -14,8 +14,8 @@ export default function Project(prop: Prop) {
     const {id} = useParams()
 
     return(
-        <section className="project_wrapper">
-            <article>
+        <section className="project-page_wrapper">
+            <article className="project_wrapper">
                 <h1 className="project_name">{prop.projectDetailed[Number(id)].name}</h1>
                 <img src={require(`../Assets/`+ prop.projectDetailed[Number(id)].image)} className="project_image"></img>
                 <a href={prop.projectDetailed[Number(id)].link} target="_blank" className="project_link">Link to website</a>
