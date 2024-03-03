@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/poppyred91.github.io/portfolio/static/css/main.974d4ccc.css",
+    "main.js": "/poppyred91.github.io/portfolio/static/js/main.dd44212d.js",
+    "static/media/project_dungeon-escape.png": "/poppyred91.github.io/portfolio/static/media/project_dungeon-escape.5cc20893110f0e646280.png",
+    "static/media/project_the-reactors.png": "/poppyred91.github.io/portfolio/static/media/project_the-reactors.15b5667a935a484880e0.png",
+    "static/media/project_moving-company.png": "/poppyred91.github.io/portfolio/static/media/project_moving-company.3087b279222d9cfe6357.png",
+    "static/media/project_star-trek.png": "/poppyred91.github.io/portfolio/static/media/project_star-trek.dc47191c800923a03174.png",
+    "static/media/homepage.png": "/poppyred91.github.io/portfolio/static/media/homepage.0dbe4d2fad0ef66fb85d.png",
+    "static/media/project_drawing-guessing.png": "/poppyred91.github.io/portfolio/static/media/project_drawing-guessing.f109cf4e245fe3795250.png",
+    "static/media/project_quiz.png": "/poppyred91.github.io/portfolio/static/media/project_quiz.b6d8a7c1fd125f15c96e.png",
+    "index.html": "/poppyred91.github.io/portfolio/index.html",
+    "main.974d4ccc.css.map": "/poppyred91.github.io/portfolio/static/css/main.974d4ccc.css.map",
+    "main.dd44212d.js.map": "/poppyred91.github.io/portfolio/static/js/main.dd44212d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974d4ccc.css",
+    "static/js/main.dd44212d.js"
+  ]
+}
