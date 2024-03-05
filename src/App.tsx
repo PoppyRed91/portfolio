@@ -2,7 +2,6 @@ import './App.css';
 import { Link, Route, Routes } from "react-router-dom";
 import Homepage from './Pages/Homepage';
 import ProjectsPage from './Pages/ProjectsPage';
-import Project from './Pages/Project';
 import AboutContactPage from './Pages/AboutContactPage';
 
 
@@ -53,11 +52,9 @@ export default function App() {
         <Route path='aboutandcontact' element={<AboutContactPage/>}></Route>
         <Route path='/' element={<Homepage/>}></Route>
         <Route path='projects' element={<ProjectsPage projectsDetailed={arrayOfProjects}/>}></Route>
-        <Route path='project/:id' element={<Project projectDetailed={arrayOfProjects}/>}></Route>
       </Routes>
       
     </>
   )
 }
 
-// :id is param, look project.tsx
