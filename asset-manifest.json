@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/poppyred91.github.io/portfolio/static/css/main.974d4ccc.css",
-    "main.js": "/poppyred91.github.io/portfolio/static/js/main.dd44212d.js",
-    "static/media/project_dungeon-escape.png": "/poppyred91.github.io/portfolio/static/media/project_dungeon-escape.5cc20893110f0e646280.png",
-    "static/media/project_the-reactors.png": "/poppyred91.github.io/portfolio/static/media/project_the-reactors.15b5667a935a484880e0.png",
-    "static/media/project_moving-company.png": "/poppyred91.github.io/portfolio/static/media/project_moving-company.3087b279222d9cfe6357.png",
-    "static/media/project_star-trek.png": "/poppyred91.github.io/portfolio/static/media/project_star-trek.dc47191c800923a03174.png",
-    "static/media/homepage.png": "/poppyred91.github.io/portfolio/static/media/homepage.0dbe4d2fad0ef66fb85d.png",
-    "static/media/project_drawing-guessing.png": "/poppyred91.github.io/portfolio/static/media/project_drawing-guessing.f109cf4e245fe3795250.png",
-    "static/media/project_quiz.png": "/poppyred91.github.io/portfolio/static/media/project_quiz.b6d8a7c1fd125f15c96e.png",
-    "index.html": "/poppyred91.github.io/portfolio/index.html",
-    "main.974d4ccc.css.map": "/poppyred91.github.io/portfolio/static/css/main.974d4ccc.css.map",
-    "main.dd44212d.js.map": "/poppyred91.github.io/portfolio/static/js/main.dd44212d.js.map"
+    "main.css": "/static/css/main.806e1138.css",
+    "main.js": "/static/js/main.ccfa68bf.js",
+    "static/media/project_dungeon-escape.png": "/static/media/project_dungeon-escape.fc736065929b7cfaaaa3.png",
+    "static/media/project_moving-company.png": "/static/media/project_moving-company.42f2a106150d27988472.png",
+    "static/media/project_quiz.png": "/static/media/project_quiz.aec9c48b27eef253e9d7.png",
+    "static/media/project_the-reactors.png": "/static/media/project_the-reactors.8d09594297420c6263f0.png",
+    "static/media/project_star-trek.png": "/static/media/project_star-trek.984adbd627564d54d881.png",
+    "static/media/project_drawing-guessing.png": "/static/media/project_drawing-guessing.17175a33341dff2e84da.png",
+    "static/media/homepage.png": "/static/media/homepage.0dbe4d2fad0ef66fb85d.png",
+    "index.html": "/index.html",
+    "main.806e1138.css.map": "/static/css/main.806e1138.css.map",
+    "main.ccfa68bf.js.map": "/static/js/main.ccfa68bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.974d4ccc.css",
-    "static/js/main.dd44212d.js"
+    "static/css/main.806e1138.css",
+    "static/js/main.ccfa68bf.js"
   ]
 }
