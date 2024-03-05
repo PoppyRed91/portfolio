@@ -79,6 +79,7 @@
     font-family: "Crimson Text", serif;
     color: crimson;
     font-size: 4rem;
+    margin: 0;
 }
 
 .projects_wrapper {
@@ -87,6 +88,7 @@
     grid-template-rows: auto;
     gap: 2rem;
     font-family: "Crimson Text", serif;
+    margin: 0 3rem;
 }
 
 .project-card_wrapper {
@@ -94,18 +96,19 @@
     flex-direction: column;
     align-items: center;
     gap: 1rem;
+    padding:0 10rem;
 }
 
 .project-card_name {
     color: white;
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 .project-card_description {
     color: white;
     font-size: 1.3rem;
     max-width: 80%;
-    height: 7.5rem;
+    height: 10rem;
 }
 
 .project-card_image {
